@@ -76,13 +76,6 @@ struct MainScreenView: View {
     }
 }
 
-//struct CameraCaptureView: View {
-//    var body: some View {
-//        Text("Camera View - Capture Photo")
-//            // Your camera capture code here
-//    }
-//}
-
 #Preview {
     MainScreenView()
     
