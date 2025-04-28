@@ -60,7 +60,7 @@ struct SplashScreenView: View {
                             }
                         }
                     
-                    // Added Text: "Snap • Identify • Adopt"
+                    // Short desc
                     Text("Snap & Identify")
                         .font(.title3)
                         .fontWeight(.semibold)
@@ -76,7 +76,7 @@ struct SplashScreenView: View {
                 }
                 .padding()
                 
-                // Button overlayed at bottom
+                // Button 
                 VStack {
                     Spacer()
                     
